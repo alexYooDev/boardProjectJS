@@ -1,5 +1,41 @@
+body {
+  margin: 0;
+}
+
+nav {
+  height: 68px;
+  background-color: antiquewhite;
+  align-items: center;
+  justify-content: center;
+}
+
 nav > ul {
+  padding: 0;
+  margin: 0;
+  align-items: center;
   display: flex;
   justify-content: space-between;
   list-style: none;
+  font-weight: 200;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  display: sticky;
+}
+
+a {
+  align-items: center;
+  height: 68px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+content > h1 {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+content {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }

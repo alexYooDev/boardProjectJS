@@ -1,0 +1,23 @@
+{
+  "name": "boardProjectJS",
+  "version": "1.0.0",
+  "description": "Project aiming to create board web page using Javascript, Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexYooDev/boardProjectJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexYooDev/boardProjectJS/issues"
+  },
+  "homepage": "https://github.com/alexYooDev/boardProjectJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
